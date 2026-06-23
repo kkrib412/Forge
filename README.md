@@ -4,6 +4,8 @@ Expo Router marketing app built for a Pittsburgh AI services agency.
 
 ## Overview
 
+Outcome: delivers a mobile-first marketing presence for a Pittsburgh AI services agency.
+
 Mobile-first marketing experience built for The AI Forge. Designed for conversions and credibility with local business audiences.
 
 ## Tech stack
